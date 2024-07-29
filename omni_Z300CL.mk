@@ -11,13 +11,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit some common Omni stuff.
 $(call inherit-product, vendor/omni/config/common.mk)
 
-# Inherit from P01T_1 device
-$(call inherit-product, device/asus/P01T_1/device.mk)
+# Inherit from Z300CL device
+$(call inherit-product, device/asus/Z300CL/device.mk)
 
-PRODUCT_DEVICE := P01T_1
-PRODUCT_NAME := omni_P01T_1
+PRODUCT_DEVICE := Z300CL
+PRODUCT_NAME := omni_Z300CL
 PRODUCT_BRAND := asus
-PRODUCT_MODEL := P01T_1
+PRODUCT_MODEL := Z300CL
 PRODUCT_MANUFACTURER := asus
 
 PRODUCT_GMS_CLIENTID_BASE := android-asus

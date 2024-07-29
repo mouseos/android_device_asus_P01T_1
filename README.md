@@ -1,4 +1,4 @@
-# Android device tree for asus P01T_1 (P01T_1)
+# Android device tree for asus Z300CL (Z300CL)
 
 ```
 #

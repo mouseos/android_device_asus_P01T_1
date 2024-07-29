@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_P01T_1.mk
+    $(LOCAL_DIR)/omni_Z300CL.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_P01T_1-user \
-    omni_P01T_1-userdebug \
-    omni_P01T_1-eng
+    omni_Z300CL-user \
+    omni_Z300CL-userdebug \
+    omni_Z300CL-eng

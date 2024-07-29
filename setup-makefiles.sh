@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=P01T_1
+DEVICE=Z300CL
 VENDOR=asus
 
 # Load extract_utils and do some sanity checks
